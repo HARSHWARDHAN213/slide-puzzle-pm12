@@ -1,0 +1,6 @@
+{
+  "name": "Slide Puzzle Game with Pause & Resume",
+  "description": "An interactive sliding tile puzzle game with real-time timer, move tracking, pause/resume state management, and QA test suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
